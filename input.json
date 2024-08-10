@@ -1,0 +1,33 @@
+[{
+
+        "fio": "Иванов Иван Иванович",
+
+        "id": "02ef7b7c-69b8-4130-b8a9-02fa6c8b3cacb",
+
+        "savings_balance": 3234.34
+
+    }, {
+
+        "fio": "Петров Алексей Сергеевич",
+
+        "id": "02ef7b7c-69b8-4130-b8a9-02fa6c8b3cacb",
+
+        "accumulation_balance": 65343.74,
+
+        "credit_balance": 5677.74,
+
+        "savings_balance": 10233.45
+
+    }, {
+
+        "fio": "Соколов Максим Ильич",
+
+        "id": "02ef7b7c-69b8-4130-b8a9-02fa6c8b3cacb",
+
+        "cheking_balance": 21323.74,
+
+        "savings_balance": 3234.34
+
+    }
+
+]
